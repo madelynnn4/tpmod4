@@ -1,0 +1,15 @@
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\obj\Debug\net9.0\tpmodul4_103022330059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\obj\Debug\net9.0\tpmodul4_103022330059.AssemblyInfoInputs.cache
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\obj\Debug\net9.0\tpmodul4_103022330059.AssemblyInfo.cs
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\obj\Debug\net9.0\tpmodul4_103022330059.csproj.CoreCompileInputs.cache
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\obj\Debug\net9.0\tpmodul4_103022330059.sourcelink.json
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\bin\Debug\net9.0\tpmodul4_103022330059.exe
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\bin\Debug\net9.0\tpmodul4_103022330059.deps.json
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\bin\Debug\net9.0\tpmodul4_103022330059.runtimeconfig.json
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\bin\Debug\net9.0\tpmodul4_103022330059.dll
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\bin\Debug\net9.0\tpmodul4_103022330059.pdb
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\obj\Debug\net9.0\tpmodul4_103022330059.dll
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\obj\Debug\net9.0\refint\tpmodul4_103022330059.dll
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\obj\Debug\net9.0\tpmodul4_103022330059.pdb
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\obj\Debug\net9.0\tpmodul4_103022330059.genruntimeconfig.cache
+C:\Users\bimov\RiderProjects\tpmodul4_103022330059\obj\Debug\net9.0\ref\tpmodul4_103022330059.dll
